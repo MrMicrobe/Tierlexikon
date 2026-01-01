@@ -1,0 +1,1171 @@
+[
+  {
+    "id": "t1",
+    "type": "Vögel",
+    "name": "Amsel",
+    "latin": "Turdus merula",
+    "family": "Turdidae",
+    "image": "assets/img/Turdus_merula.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Turdus_merula_2.jpg | Urheber: Musicaline | Lizenz: CC BY-SA 4.0"
+  },
+  
+  {
+    "id": "t2",
+    "type": "Vögel",
+    "name": "Buchfink",
+    "latin": "Fringilla coelebs",
+    "family": "Fringillidae",
+    "image": "assets/img/Fringilla_coelebs.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Fringilla_coelebs_eating.jpg | Urheber: Thermos | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t3",
+    "type": "Vögel",
+    "name": "Stare",
+    "latin": "Sturnus vulgaris",
+    "family": "Sturnidae",
+    "image": "assets/img/Sturnus_vulgaris.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Sturnus_vulgaris_(European_starling)_at_Bodega_Head-1209.jpg | Urheber: Frank Schulenburg| Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t4",
+    "type": "Vögel",
+    "name": "Kohlmeise",
+    "latin": "Parus major",
+    "family": "Paridae",
+    "image": "assets/img/Parus_major.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Great_tit_(Parus_major)_male.jpg | Urheber: Charles J. Sharp | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t5",
+    "type": "Vögel",
+    "name": "Buntspecht",
+    "latin": "Dendrocopos major",
+    "family": "Picidae",
+    "image": "assets/img/Dendrocopus_major.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:2015.05.08.-04-Kaefertaler_Wald-Mannheim--Buntspecht-Weibchen.jpg| Urheber: Andreas Eichler | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t6",
+    "type": "Säugetiere",
+    "name": "Reh",
+    "latin": "Capreolus capreolus",
+    "family": "Cervidae",
+    "image": "assets/img/Capreolus_capreolus.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Capreolus_capreolus_Wien_Zentralfriedhof_20221021_05.jpg | Urheber: Uoaei1 | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t7",
+    "type": "Säugetiere",
+    "name": "Fuchs",
+    "latin": "Vulpes vulpes",
+    "family": "Canidae",
+    "image": "assets/img/Vulpes_vulpes.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_Fox_2025_09_28_02.jpg | Urheber: Alexis Lours | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t8",
+    "type": "Säugetiere",
+    "name": "Dachs",
+    "latin": "Meles meles",
+    "family": "Mustelidae",
+    "image": "assets/img/Meles_meles.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Grevling_(Meles_meles).jpg| Urheber: Trond Sætre Stegarud | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t9",
+    "type": "Säugetiere",
+    "name": "Eichhörnchen",
+    "latin": "Sciurus vulgaris",
+    "family": "Sciuridae",
+    "image": "assets/img/Sciurus_vulgaris.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Sciurus_vulgaris_in_Winter.jpg | Urheber: Burkhard Mücke | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t10",
+    "type": "Säugetiere",
+    "name": "Igel",
+    "latin": "Erinaceus europaeus",
+    "family": "Erinaceidae",
+    "image": "assets/img/Erinaceus_europaeus.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:West_European_Hedgehog_(Erinaceus_europaeus)1.jpg | Urheber: Hrald | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t11",
+    "type": "Amphibien",
+    "name": "Grasfrosch",
+    "latin": "Rana temporaria",
+    "family": "Ranidae",
+    "image": "assets/img/Rana_temporaria.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Grasfrosch_am_Nordhang_der_Bitterleite_s%C3%BCdlich_von_Koppenwind_3.jpg | Urheber: Stephan van Helden | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t12",
+    "type": "Amphibien",
+    "name": "Teichmolch",
+    "latin": "Lissotriton vulgaris",
+    "family": "Salamandridae",
+    "image": "assets/img/Lissotriton_vulgaris.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Lissotriton_vulgaris_in_Kalkar_PM170628_01.jpg | Urheber: Pieter Delicaat | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t13",
+    "type": "Amphibien",
+    "name": "Erdkröte",
+    "latin": "Bufo bufo",
+    "family": "Bufonidae",
+    "image": "assets/img/Bufo_bufo.JPG",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Bufo_bufo_on_grass2.JPG | Urheber: Korall | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t14",
+    "type": "Amphibien",
+    "name": "Laubfrosch",
+    "latin": "Hyla arborea",
+    "family": "Hylidae",
+    "image": "assets/img/Hyla_arborea.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Laubfrosch.jpg | Urheber: Christoph Leeb | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t15",
+    "type": "Amphibien",
+    "name": "Feuersalamander",
+    "latin": "Salamandra salamandra",
+    "family": "Salamandridae",
+    "image": "assets/img/Salamandra_salamandra.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Fire_salamander_(Salamandra_Salamandra).jpg| Urheber: Petar Milošević  | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t16",
+    "type": "Reptilien",
+    "name": "Zauneidechse",
+    "latin": "Lacerta agilis",
+    "family": "Lacertidae",
+    "image": "assets/img/Lacerta_agilis.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:2017.07.06.-48-Wendisch_Rietz--Zauneidechse-Weibchen.jpg | Urheber: Andreas Eichler | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t17",
+    "type": "Reptilien",
+    "name": "Ringelnatter",
+    "latin": "Natrix natrix",
+    "family": "Colubridae",
+    "image": "assets/img/Natrix_natrix.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:2019-04-25_(176)_Natrix_natrix_(grass_snake)_with_length_about_one_meter_at_Haltgraben,_Frankenfels,_Austria.jpg | Urheber: GT1976 | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t18",
+    "type": "Reptilien",
+    "name": "Kreuzotter",
+    "latin": "Vipera berus",
+    "family": "Viperidae",
+    "image": "assets/img/Vipera_berus.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Common_European_viper_(Vipera_berus)_female_Pieniny.jpg | Urheber: Andreas Korn | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t19",
+    "type": "Reptilien",
+    "name": "Blindschleiche",
+    "latin": "Anguis fragilis",
+    "family": "Anguidae",
+    "image": "assets/img/Anguis_fragilis.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Anguis_fragilis_(curled_up).jpg | Urheber: Hans Hillewaert | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t20",
+    "type": "Reptilien",
+    "name": "Smaragdeidechse",
+    "latin": "Lacerta viridis",
+    "family": "Lacertidae",
+    "image": "assets/img/Lacerta_viridis.JPG",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Lacerta_viridis_-Germany-8a.jpg | Urheber: Andreas Korn | Lizenz: CC BY-SA 4.0"
+  },
+
+  {
+    "id": "t21",
+    "type": "Vögel",
+    "name": "Alpenbraunelle",
+    "latin": "Prunella colaris",
+    "family": "Prunellidae",
+    "image": "assets/img/Prunella_collaris.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Alpenbraunelle_(Prunella_collaris).jpg | Urheber: Chme82 | Lizenz: CC BY-SA 4.0"
+  }, 
+
+
+  {
+    "id": "t22",
+    "type": "Vögel",
+    "name": "Alpendohle",
+    "latin": "Pyrrhocorax graculus",
+    "family": "Corvidae",
+    "image": "assets/img/Pyrrhocorax_graculus.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Alpenbraunelle_(Prunella_collaris).jpg | Urheber: Chme82 | Lizenz: CC BY-SA 4.0"
+  }, 
+
+  {
+    "id": "t23",
+    "type": "Vögel",
+    "name": "Alpenschneehuhn",
+    "latin": "Lagopus muta",
+    "family": "Phasianidae",
+    "image": "assets/img/Lagopus_muta.JPG",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Alpenbraunelle_(Prunella_collaris).jpg | Urheber: Chme82 | Lizenz: CC BY-SA 4.0"
+  }, 
+
+  {
+    "id": "t24",
+    "type": "Vögel",
+    "name": "Alpensegler",
+    "latin": "Tachymarptis melba",
+    "family": "Apodidae",
+    "image": "assets/img/Tachymarptis_melba.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Alpenbraunelle_(Prunella_collaris).jpg | Urheber: Chme82 | Lizenz: CC BY-SA 4.0"
+  }, 
+
+  
+  {
+    "id": "t25",
+    "type": "Vögel",
+    "name": "Alpenstrandläufer",
+    "latin": "Calidris alpina",
+    "family": "Schnepfenvögel (Scolopacidae)",
+    "image": "assets/img/Vögel/Calisdris_alpina.jpg",
+    "short": "Kleiner Watvogel mit schwarzem Bauch im Brutkleid, häufig an Küsten und Mooren.",
+    "detail": "Der Alpenstrandläufer ist ein schmaler Watvogel mit kurzem Schnabel und graubrauner Oberseite. Im Brutkleid zeigt er einen auffälligen schwarzen Bauchbereich. Er brütet in arktischen Tundren und zieht im Winter an nordatlantischen Küsten. Sein Flugruf ist ein leises 'kleep'.",
+    "source": "https://commons.wikimedia.org/wiki/File:Alpenstrandl%C3%A4ufer_(calidris_alpina)_-_Spiekeroog,_Nationalpark_nieders%C3%A4chsisches_Wattenmeer.jpg | Urheber: Stephan Sprinz| Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t26",
+    "type": "Vögel",
+    "name": "Auerhuhn",
+    "latin": "Tetrao urogallus",
+    "family": "Fasanenartige (Phasianidae)",
+    "image": "assets/img/Tetrao_urogallus.jpg",
+    "short": "Größter europäischer Hühnervogel, lebt in alpinen Nadelwäldern.",
+    "detail": "Der Hahn erreicht bis zu 115 cm Körperlänge mit schwarzem Gefieder und rotem Augenwulst. Er ist stark standorttreu und führt im Frühjahr spektakuläre Balzrufe durch. In Deutschland stark gefährdet, vor allem durch Habitatverlust.",
+    "source": "https://commons.wikimedia.org/wiki/File:Tetrao_urogallus_male.jpg | Urheber: Karelj | Lizenz: CC BY-SA 3.0"
+  },
+  {
+    "id": "t27",
+    "type": "Vögel",
+    "name": "Austernfischer",
+    "latin": "Haematopus ostralegus",
+    "family": "Austernfischer (Haematopodidae)",
+    "image": "assets/img/Vögel/Haematopus_ostralegus.jpg",
+    "short": "Schwarz-weißer Küstenvogel mit leuchtend rotem Schnabel.",
+    "detail": "Er nutzt seinen kräftigen Schnabel zum Öffnen von Muscheln und Schnecken. Lebt an Nordsee- und Ostseeküsten, brütet auf Salzwiesen. Sein lautes 'klik-klik' ist charakteristisch für Küstenregionen.",
+    "source": "https://commons.wikimedia.org/wiki/File:Austernfischer_Haematopus_ostralegus_Iceland_RB.jpg | Urheber: Richard Bartz | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t28",
+    "type": "Vögel",
+    "name": "Bachstelze",
+    "latin": "Motacilla alba",
+    "family": "Stelzen (Motacillidae)",
+    "image": "assets/img/Vögel/Motacilla_alba.jpg",
+    "short": "Weiß-schwarzer Vogel mit ständig wippendem Schwanz.",
+    "detail": "Lebt an fließenden Gewässern, Wiesen und Siedlungen. Fängt Insekten im Flug oder am Boden. Überwintert teils in Südeuropa, teils resident. Weibchen sind bräunlicher als Männchen.",
+    "source": "https://commons.wikimedia.org/wiki/File:L%E2%81%A0inerle_-_M%E2%81%A0otacilla_alba_in_Austevoll.jpg| Urheber: Marius Vassnes | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t29",
+    "type": "Vögel",
+    "name": "Bartgeier",
+    "latin": "Gypaetus barbatus",
+    "family": "Geier (Accipitridae)",
+    "image": "assets/img/Vögel/Gypaetus_barbatus.jpg",
+    "short": "Gebirgsgreif mit rotem Gesicht und charakteristischem 'Bart'.",
+    "detail": "Spezialist für Knochenfraß: Wirft Knochen aus großer Höhe auf Felsen, um Mark freizulegen. In den Alpen durch Wiederansiedlung erfolgreich zurückgekehrt. Span wingspan bis 280 cm.",
+    "source": "https://commons.wikimedia.org/wiki/File:Bartgeier_Gypaetus_barbatus_front_Richard_Bartz.jpg | Urheber: Richard Bartz | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t30",
+    "type": "Vögel",
+    "name": "Bartmeise",
+    "latin": "Panurus biarmicus",
+    "family": "Bartmeisen (Panuridae)",
+    "image": "assets/img/Vögel/Panurus_biarmicus.jpg",
+    "short": "Röhrichtbewohner mit langem Schwanz und braunem Gefieder.",
+    "detail": "Lebt in Schilfgürteln von Seen und Flüssen. Hat einen auffälligen schwarzen Augenstreif und einen spitzen Schnabel zum Öffnen von Samen. Singt ein melodisches 'schil-ip-schil-ip'.",
+    "source": "https://commons.wikimedia.org/wiki/File:Panurus_biarmicus_40728207.jpg | Urheber: Ani Sarkisyan | Lizenz: CC BY-SA 3.0"
+  },
+  {
+    "id": "t31",
+    "type": "Vögel",
+    "name": "Basstölpel",
+    "latin": "Morus bassanus",
+    "family": "Tölpel (Sulidae)",
+    "image": "assets/img/Vögel/Morus_bassanus.jpg",
+    "short": "Großer weißer Seetaucher mit gelblichem Kopf.",
+    "detail": "Stürzt aus bis zu 20 m Höhe ins Wasser, um Fische zu fangen. Brutkolonien vor allem an nordatlantischen Klippen. In Deutschland selten, meist als Durchzügler an der Nordseeküste.",
+    "source": "https://commons.wikimedia.org/wiki/File:Ba%C3%9Ft%C3%B6lpel1.jpg | Urheber: Kathrin Voss | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t32",
+    "type": "Vögel",
+    "name": "Baumfalke",
+    "latin": "Falco subbuteo",
+    "family": "Falken (Falconidae)",
+    "image": "assets/img/Vögel/Falco_subbuteo.jpg",
+    "short": "Mittlerer Falke mit hellbraunem Rücken und dunklem Flügelband.",
+    "detail": "Jagt vorwiegend andere Vögel im Flug, besonders Schwalben und Stare. Brütet in offenen Wäldern und Heidelandschaften. Überwintert in Afrika südlich der Sahara.",
+    "source": "https://commons.wikimedia.org/wiki/File:Baumfalke,_Eurasien_Hobby,_Falco_subbuteo,_fliegend.jpg | Urheber: Dirk Wedemann | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t33",
+    "type": "Vögel",
+    "name": "Baumpieper",
+    "latin": "Anthus trivialis",
+    "family": "Pieper (Motacillidae)",
+    "image": "assets/img/Vögel/Anthus_trivialis.jpg",
+    "short": "Braungefiederter Singvogel mit hellem Überaugenstreif.",
+    "detail": "Brütet in lichten Laub- und Mischwäldern. Singt im Flug einen langen, trillernden Gesang. Überwintert in tropischen Savannen Afrikas.",
+    "source": "https://commons.wikimedia.org/wiki/File:Anthus_trivialis_125819552.jpg | Urheber: Сергей Неклюдов | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t34",
+    "type": "Vögel",
+    "name": "Bekassine",
+    "latin": "Gallinago gallinago",
+    "family": "Schnepfenvögel (Scolopacidae)",
+    "image": "assets/img/Vögel/Gallinago_gallinago.jpg",
+    "short": "Kleiner, scheuer Watvogel mit langem Schnabel.",
+    "detail": "Brütet in feuchten Wiesen und Mooren. Zeigt bei Gefahr einen typischen 'schlüpfrigen' Flug. Nachtaktiv, fängt Würmer und Insekten mit Tastsinn im Schnabel.",
+    "source": "https://commons.wikimedia.org/wiki/File:Gallinago_gallinago_a2.jpg  | Urheber: Alpsdake | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t35",
+    "type": "Vögel",
+    "name": "Bergente",
+    "latin": "Aythya marila",
+    "family": "Entenvögel (Anatidae)",
+    "image": "assets/img/Vögel/Aythya_marila.jpg",
+    "short": "Tauchente mit schwarzem Kopf und weißem Flügelfleck.",
+    "detail": "Lebt an Küstengewässern und großen Binnenseen. Taucht bis 4 m tief nach Pflanzen und Schnecken. Im Winter häufig an der Nordsee, im Sommer in arktischen Seen.",
+    "source": "https://commons.wikimedia.org/wiki/File:Aythya_marila_nearctica,_first-winter_male,_Crawfordville,_Florida_376619420.jpg | Urheber: Gary T. Leavens | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t36",
+    "type": "Vögel",
+    "name": "Bergfink",
+    "latin": "Fringilla montifringilla",
+    "family": "Finken (Fringillidae)",
+    "image": "assets/img/Vögel/Fringilla_montifringilla.jpg",
+    "short": "Braun-weißer Fink mit rosa Brust im Brutkleid.",
+    "detail": "Brütet in nördlichen Nadelwäldern. Im Winter zieht er in großen Schwärmen in Mitteleuropa. Futtert vorwiegend Samen und Insekten. Singt einen hellen, trillernden Gesang.",
+    "source": "https://commons.wikimedia.org/wiki/File:Bergfink_(Fringilla_montifringilla).jpg | Urheber: Jens Freitag | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t37",
+    "type": "Vögel",
+    "name": "Berghänfling",
+    "latin": "Linaria flavirostris",
+    "family": "Finken (Fringillidae)",
+    "image": "assets/img/Vögel/Linaria_flavirostris.jpg",
+    "short": "Kleiner Fink mit braunem Gefieder und gelbem Schnabel.",
+    "detail": "Lebt in alpinen und arktischen Heidelandschaften. Futtert vor allem Gräser und Samen. Überwintert in Südeuropa. Männchen haben eine auffällige rote Brust.",
+    "source": "https://commons.wikimedia.org/wiki/File:Linaria_flavirostris_109831406.jpg | Urheber: Andrew Bazdyrev | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t38",
+    "type": "Vögel",
+    "name": "Berglaubsänger",
+    "latin": "Phylloscopus bonelli",
+    "family": "Laubsängerartige (Phylloscopidae)",
+    "image": "assets/img/Vögel/Phylloscopus_bonelli.jpg",
+    "short": "Braun-grauer Singvogel mit hellem Augenring.",
+    "detail": "Brütet in dornigen Hecken und Macchie-Gebieten. Singt einen langen, melodischen Gesang. In Mitteleuropa selten, vor allem im Süden (z. B. Südfrankreich).",
+    "source": "https://commons.wikimedia.org/wiki/File:Phylloscopus_bonelli_2.jpg | Urheber: Kookaburra 81 | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t39",
+    "type": "Vögel",
+    "name": "Bergpieper",
+    "latin": "Anthus spinoletta",
+    "family": "Pieper (Motacillidae)",
+    "image": "assets/img/Vögel/Anthus_spinoletta.jpg",
+    "short": "Hochgebirgspieper mit grauem Rücken und weißem Augenstreif.",
+    "detail": "Lebt ab 1.500 m Höhe in felsigen Gebirgspartnern. Überwintert in tieferen Lagen. Singt im Flug einen zarten, silbernen Gesang. Passt sich gut an Schneedekken an.",
+    "source": "https://commons.wikimedia.org/wiki/File:Anthus_spinoletta_-_Water_Pipit,_Kahramanmara%C5%9F_2016-11-18_01-4.jpg | Urheber: Zeynel Cebeci | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t40",
+    "type": "Vögel",
+    "name": "Beutelmeise",
+    "latin": "Remiz pendulinus",
+    "family": "Beutelmeisen (Remizidae)",
+    "image": "assets/img/Vögel/Remiz_pendulinus.jpg",
+    "short": "Kleine Meise mit schwarzem Kopf und weißem Wangenfleck.",
+    "detail": "Lebt in Nadel- und Mischwäldern. Nistet in Baumhöhlen, nutzt auch Nistkästen. Futtert Insekten, Samen und Nüsse. Charakteristisch: kurzer, heller Gesang 'tsi-tsi-tsi'.",
+    "source": "https://commons.wikimedia.org/wiki/File:Remiz_Pendulinus_in_Ukraine_2018.jpg | Urheber: Podaliriy55 | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t41",
+    "type": "Vögel",
+    "name": "Bienenfresser",
+    "latin": "Merops apiaster",
+    "family": "Bienenfresser (Meropidae)",
+    "image": "assets/img/Vögel/Merops_apiaster.jpg",
+    "short": "Bunter Vogel mit grünem Gefieder und langem Schnabel.",
+    "detail": "Jagt Insekten im Flug, besonders Bienen und Wespen. Brütet in kolonialen Sandbänken. In Südeuropa heimisch, in Deutschland zunehmend als Sommergast.",
+    "source": "https://commons.wikimedia.org/wiki/File:European_Bee-eater_(Merops_apiaster)_at_Ichkeul_NP.jpg | Urheber: El Golli Mohamed | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t42",
+    "type": "Vögel",
+    "name": "Birkenzeisig",
+    "latin": "Acanthis flammea",
+    "family": "Finken (Fringillidae)",
+    "image": "assets/img/Vögel/Acanthis_flammea.jpg",
+    "short": "Kleiner Fink mit rotem Kopfstreif und braunem Gefieder.",
+    "detail": "Brütet in borealen Nadelwäldern. Im Winter wandert er in Mitteleuropa ein („Eisvogelwinter“). Futtert vor allem Birken- und Fichtensamen.",
+    "source": "https://commons.wikimedia.org/wiki/File:Acanthis_flammea_UL_03.jpg | Urheber: Cephas | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t43",
+    "type": "Vögel",
+    "name": "Birkhuhn",
+    "latin": "Lyrurus tetrix",
+    "family": "Fasanenartige (Phasianidae)",
+    "image": "assets/img/Vögel/Lyrurus_tetrix.jpg",
+    "short": "Weißer Schneehase mit Federfüßen, anpassungsfähig an Schnee.",
+    "detail": "Im Winter komplett weiß, im Sommer braun gefärbt. Lebt in arktischen Tundren und Hochmooren. Wichtiger Nahrungsbestandteil für Polarfüchse.",
+    "source": "https://commons.wikimedia.org/wiki/File:Orrtuppen.jpg | Urheber: Spjutkastare | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t44",
+    "type": "Vögel",
+    "name": "Blässgans",
+    "latin": "Anser albifrons",
+    "family": "Gänse (Anatidae)",
+    "image": "assets/img/Vögel/Anser_albifrons.jpg",
+    "short": "Mittlere Gans mit weißem Stirnfleck und orangefarbenem Schnabel.",
+    "detail": "Brütet in arktischen Küstenregionen. Überwintert an norddeutschen Küsten. Lebt in großen Schwärmen auf Äckern und Salzwiesen.",
+    "source": "https://commons.wikimedia.org/wiki/File:Greater_white-fronted_goose_(Anser_albifrons)_in_flight.jpg | Urheber: Frank Schulenburg | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t45",
+    "type": "Vögel",
+    "name": "Blässhuhn",
+    "latin": "Fulica atra",
+    "family": "Rallen (Rallidae)",
+    "image": "assets/img/Vögel/Fulica_atra.jpg",
+    "short": "Schwarzer Wasservogel mit weißem Schnabelschild.",
+    "detail": "Lebt auf stehenden Gewässern mit Schilfbewuchs. Taucht nach Pflanzen und Kleintieren. Sein lautes 'krrr-krrr' ist typisch für Seenlandschaften.",
+    "source": "https://commons.wikimedia.org/wiki/File:Eurasian_coot_(Fulica_atra)_05.jpg | Urheber: Nrik kiran | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t46",
+    "type": "Vögel",
+    "name": "Blaukehlchen",
+    "latin": "Luscinia svecica",
+    "family": "Drosseln (Muscicapidae)",
+    "image": "assets/img/Vögel/Luscinia_svecica.jpg",
+    "short": "Singvogel mit blauer Kehle und rostbraunem Schwanz.",
+    "detail": "Brütet in Mooren und Feuchtgebieten. Männchen singt einen melancholischen Gesang. Überwintert in tropischem Afrika.",
+    "source": "https://commons.wikimedia.org/wiki/File:Bluethroat_(Luscinia_svecica)_at_Ichkeul_NP.jpg | Urheber: El Golli Mohamed | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t47",
+    "type": "Vögel",
+    "name": "Blaumeise",
+    "latin": "Cyanistes caeruleus",
+    "family": "Meisen (Paridae)",
+    "image": "assets/img/Vögel/Cyanistes_caeruleus.jpg",
+    "short": "Kleine Meise mit blauem Rücken und gelbem Bauch.",
+    "detail": "Häufig in Gärten und Wäldern. Nutzt Nistkästen gerne. Futtert Insekten, Samen und Fettfutter. Singt einen zweisilbigen Gesang 'tsi-tsi'.",
+    "source": "https://commons.wikimedia.org/wiki/File:Eurasian_Blue_Tit_2025_04_07.jpg | Urheber: Alexis Lours | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t48",
+    "type": "Vögel",
+    "name": "Bluthänfling",
+    "latin": "Linaria cannabina",
+    "family": "Finken (Fringillidae)",
+    "image": "assets/img/Vögel/Linaria_cannabina.jpg",
+    "short": "Männchen mit karminrotem Kopf und braunem Gefieder.",
+    "detail": "Brütet in Gebirgen und Heidelandschaften. Überwintert in Südeuropa und Nordafrika. Futtert Samen und Beeren. Singt einen trillernden Gesang.",
+    "source": "https://commons.wikimedia.org/wiki/File:Common_linnet_(Linaria_cannabina_mediterranea)_male.jpg | Urheber: Charles J. Sharp | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t49",
+    "type": "Vögel",
+    "name": "Brachpieper",
+    "latin": "Anthus campestris",
+    "family": "Pieper (Motacillidae)",
+    "image": "assets/img/Vögel/Anthus_campestris.jpg",
+    "short": "Brauner Pieper mit hellem Überaugenstreif und wippendem Schwanz.",
+    "detail": "Lebt auf feuchten Wiesen und Weiden. Singt im Flug einen langen, trillernden Gesang. Überwintert in Südeuropa und Afrika.",
+    "source": "https://commons.wikimedia.org/wiki/File:Tawny_pipit_(Anthus_campestris)_juvenile_Dobruja.jpg | Urheber: Charles J. Sharp | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t50",
+    "type": "Vögel",
+    "name": "Brachvogel",
+    "latin": "Numenius arquata",
+    "family": "Schnepfenvögel (Scolopacidae)",
+    "image": "assets/img/Vögel/Numenius_arquata.jpg",
+    "short": "Großer Watvogel mit langem, gebogenem Schnabel.",
+    "detail": "Brütet in Feuchtgebieten und Mooren. Futtert mit dem Schnabel Würmer und Schnecken im Schlamm. Überwintert an Küsten Westeuropas.",
+    "source": "https://commons.wikimedia.org/wiki/File:Numenius_arquata_-Germany-8.jpg | Urheber: Andreas Trepte | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t51",
+    "type": "Vögel",
+    "name": "Brandgans",
+    "latin": "Tadorna tadorna",
+    "family": "Gänse (Anatidae)",
+    "image": "assets/img/Vögel/Tadorna_tadorna.jpg",
+    "short": "Kleine Gans mit schwarzem Kopf und weißem Nackenfleck.",
+    "detail": "Brütet in arktischen Küstenregionen. Überwintert an norddeutschen Küsten. Lebt in großen Schwärmen auf Salzwiesen.",
+    "source": "https://commons.wikimedia.org/wiki/File:Common_shelduck_(Tadorna_tadorna)_male_2.jpg  | Urheber: Charles J. Sharp | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t52",
+    "type": "Vögel",
+    "name": "Brandseeschwalbe",
+    "latin": "Thalasseus sandvicensis",
+    "family": "Möwen (Laridae)",
+    "image": "assets/img/Vögel/Thalasseus_sandvicensis.jpg",
+    "short": "Seeschwalbe mit goldgelbem Schnabel und schwarzem Kopf im Sommer.",
+    "detail": "Brütet in Kolonien auf Sandbänken. Jagt Fische durch Sturztauchen. In Deutschland nur selten als Durchzügler an der Nordseeküste.",
+    "source": "https://commons.wikimedia.org/wiki/File:Sandwich_tern_(Thalasseus_sandvicensis)_in_flight_5.jpg | Urheber: Charles J. Sharp | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t53",
+    "type": "Vögel",
+    "name": "Braunkehlchen",
+    "latin": "Saxicola rubetra",
+    "family": "Drosseln (Muscicapidae)",
+    "image": "assets/img/Vögel/Saxicola_rubetra.jpg",
+    "short": "Braunes Singvogel mit weißem Flügelband.",
+    "detail": "Brütet in Heide- und Brachland. Männchen singt von hohen Sitzwarten. Überwintert in tropischem Afrika. Stark gefährdet durch Landwirtschaft.",
+    "source": "https://commons.wikimedia.org/wiki/File:Saxicola_rubetra_3_tom_(Marek_Szczepanek).jpg | Urheber: Marek Szczepanek | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t54",
+    "type": "Vögel",
+    "name": "Brautente",
+    "latin": "Aix sponsa",
+    "family": "Entenvögel (Anatidae)",
+    "image": "assets/img/Vögel/Aix_sponsa.jpg",
+    "short": "Tauchente mit schwarzem Kopf und weißem Nackenfleck.",
+    "detail": "Brütet in nährstoffreichen Seen mit Schilfgürteln. Taucht nach Pflanzen und Schnecken. Im Winter häufig an Binnengewässern in Mitteleuropa.",
+    "source": "https://commons.wikimedia.org/wiki/File:Wood_Duck_Male_Aix_sponsa_03.jpg | Urheber: ImagePerson | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t55",
+    "type": "Vögel",
+    "name": "Bruchwasserläufer",
+    "latin": "Tringa glareola",
+    "family": "Schnepfenvögel (Scolopacidae)",
+    "image": "assets/img/Vögel/Tringa_glareola.jpg",
+    "short": "Schlanker Watvogel mit langen Beinen und grauem Rücken.",
+    "detail": "Brütet in arktischen Sümpfen. Überwintert an Küsten Afrikas und Südasiens. In Europa selten als Durchzügler an Binnengewässern.",
+    "source": "https://commons.wikimedia.org/wiki/File:Tringa_glareola_-_Wood_Sandpiper_09.jpg  | Urheber: Zeynel Cebeci | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t56",
+    "type": "Vögel",
+    "name": "Buchfink",
+    "latin": "Fringilla coelebs",
+    "family": "Finken (Fringillidae)",
+    "image": "assets/img/Vögel/Fringilla_coelebs.jpg",
+    "short": "Braun-rote Finkenart mit starkem Schnabel.",
+    "detail": "Häufig in Wäldern und Gärten. Männchen haben rote Brust und grauen Kopf. Singt einen typischen zweisilbigen Gesang. Futtert Samen und Insekten.",
+    "source": "https://commons.wikimedia.org/wiki/File:Fringilla_coelebs_male_Buchfink-3264.jpg | Urheber: Isiwal | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t57",
+    "type": "Vögel",
+    "name": "Buntspecht",
+    "latin": "Dendrocopos major",
+    "family": "Spechte (Picidae)",
+    "image": "assets/img/Vögel/Dendrocopos_major.jpg",
+    "short": "Schwarz-weißer Specht mit rotem Unter Schwanz.",
+    "detail": "Lebt in Laub- und Mischwäldern. Hämmert an Bäume zur Reviermarkierung. Nistet in selbstgehackten Baumhöhlen. Futtert Insekten und Samen.",
+    "source": "https://commons.wikimedia.org/wiki/File:2015.05.08.-04-Kaefertaler_Wald-Mannheim--Buntspecht-Weibchen.jpg | Urheber: Andreas Eichler | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t58",
+    "type": "Vögel",
+    "name": "Dohle",
+    "latin": "Coloeus monedula",
+    "family": "Krähen (Corvidae)",
+    "image": "assets/img/Vögel/Corvus_monedula.jpg",
+    "short": "Schwarzer Vogel mit grauem Nacken und weißem Schnabel.",
+    "detail": "Lebt in offenen Kulturlandschaften und Städten. Sehr intelligent, nutzt Werkzeuge zum Futtererlangen. Brütet kolonial in Gebäudehohlräumen.",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C3%BC%C3%A7%C3%BCk_karga_(Corvus_monedula),_01.jpg | Urheber: Zeynel Cebeci | Lizenz: CC BY-SA 2.5"
+  },
+
+  {
+    "id": "t59",
+    "type": "Vögel",
+    "name": "Dorngrasmücke",
+    "latin": "Sylvia communis",
+    "family": "Grasmücken (Sylviidae)",
+    "image": "assets/img/Vögel/Sylvia_communis.jpg",
+    "short": "Braun-grauer Singvogel mit hellem Augenring.",
+    "detail": "Brütet in dornigen Hecken und Macchie-Gebieten. Singt einen langen, melodischen Gesang. In Mitteleuropa selten, vor allem im Süden (z. B. Südfrankreich).",
+    "source": "https://commons.wikimedia.org/wiki/File:Curruca_communis_05(js)_Lodz_(Poland).jpg | Urheber: Jerzystrzelecki | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t60",
+    "type": "Vögel",
+    "name": "Dreizehenmöwe",
+    "latin": "Rissa tridactyla",
+    "family": "Möwen (Laridae)",
+    "image": "assets/img/Vögel/Rissa_tridactyla.jpg",
+    "short": "Kleine Möwe mit schwarzem Kopf im Sommer und weißem Kopf im Winter.",
+    "detail": "Brütet in Kolonien auf felsigen Küstenklippen. Jagt Fische und Kleintiere im Flug. In Deutschland selten, meist an der Nordseeküste als Durchzügler.",
+    "source": "https://commons.wikimedia.org/wiki/File:Rissa_tridactyla_-Norway-8.jpg | Urheber: Charles J. Sharp | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t61",
+    "type": "Vögel",
+    "name": "Dreizehenspecht",
+    "latin": "Picoides tridactylus",
+    "family": "Spechte (Picidae)",
+    "image": "assets/img/Vögel/Picoides_tridactylus.jpg",
+    "short": "Schwarz-weißer Specht mit drei Zehen und rotem Scheitel.",
+    "detail": "Lebt in alpinen und borealen Nadelwäldern. Spezialisiert auf totes Holz, frisst vor allem Käferlarven. Sein Klopfen ist langsamer als beim Buntspecht.",
+    "source": "https://commons.wikimedia.org/wiki/File:Picoides_tridactylus_402090524.jpg | Urheber: Christoph Moning | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t62",
+    "type": "Vögel",
+    "name": "Drosselrohrsänger",
+    "latin": "Acrocephalus arundinaceus",
+    "family": "Rohrsänger (Acrocephalidae)",
+    "image": "assets/img/Vögel/Acrocephalus_arundinaceus.jpg",
+    "short": "Großer Rohrsänger mit braunem Gefieder und langem Schnabel.",
+    "detail": "Brütet in dichtem Schilf und Röhricht. Singt einen lauten, trillernden Gesang. Überwintert in tropischem Afrika. Sehr scheu, schwer zu beobachten.",
+    "source": "https://commons.wikimedia.org/wiki/File:Acrocephalus_arundinaceus_-_Great_Reed_Warbler_01.jpg | Urheber: Zeynel Cebeci | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t63",
+    "type": "Vögel",
+    "name": "Dunkelwasserläufer",
+    "latin": "Tringa erythropus",
+    "family": "Schnepfenvögel (Scolopacidae)",
+    "image": "assets/img/Vögel/Tringa_erythropus.jpg",
+    "short": "Schlanker Watvogel mit roten Beinen und grauem Rücken.",
+    "detail": "Brütet in arktischen Sümpfen. Überwintert an Küsten Afrikas und Südasiens. In Europa selten als Durchzügler an Binnengewässern.",
+    "source": "https://commons.wikimedia.org/wiki/File:Spotted_Redshank_by_Tisha_Mukherjee_09.jpg | Urheber: Tisha Mukherjee | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t64",
+    "type": "Vögel",
+    "name": "Dunkelsturmtaucher",
+    "latin": "Ardenna grisea",
+    "family": "Sturmtaucher (Procellariidae)",
+    "image": "assets/img/Vögel/Ardenna_grisea.jpg",
+    "short": "Mittelgroßer Sturmtaucher mit grauem Rücken und weißem Bauch.",
+    "detail": "Lebt auf offenen Ozeanen, brütet auf felsigen Inseln. Fliegt tief über die Wellen. In Europa selten, meist als Durchzügler an der Nordseeküste.",
+    "source": "https://commons.wikimedia.org/wiki/File:Ardenna_grisea,_North_Sea_10_km_off_Northumberland_coast_2.jpg | Urheber: MPF | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t65",
+    "type": "Vögel",
+    "name": "Eichelhäher",
+    "latin": "Garrulus glandarius",
+    "family": "Rabenvögel (Corvidae)",
+    "image": "assets/img/Vögel/Garrulus_glandarius.jpg",
+    "short": "Bunter Vogel mit blauem Flügel und weißem Kehlband.",
+    "detail": "Lebt in Laub- und Mischwäldern. Spezialisiert auf Eicheln, die er vergräbt. Sein lauter, rauer Ruf ist typisch für Wälder. Sehr intelligent und neugierig.",
+    "source": "https://commons.wikimedia.org/wiki/File:075_Wild_Eurasian_jay_in_flight_at_the_Parc_naturel_r%C3%A9gional_Jura_vaudois_Photo_by_Giles_Laurent.jpg | Urheber: Giles Laurent | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t66",
+    "type": "Vögel",
+    "name": "Eiderente",
+    "latin": "Somateria mollissima",
+    "family": "Entenvögel (Anatidae)",
+    "image": "assets/img/Vögel/Somateria_mollissima.jpg",
+    "short": "Große Meerente mit weißem Gefieder und schwarzem Kopf.",
+    "detail": "Brütet an arktischen Küsten. Weibchen haben braunes Gefieder. Das Daunenmaterial wird für Daunenjacken genutzt. Sehr ruhig, schwimmt oft in Gruppen.",
+    "source": "https://commons.wikimedia.org/wiki/File:Common_eider_(Somateria_mollissima_mollissima)_male_eclipse_plumage_swimming.jpg | Urheber: Charles J. Sharp | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t67",
+    "type": "Vögel",
+    "name": "Eisente",
+    "latin": "Clangula hyemalis",
+    "family": "Entenvögel (Anatidae)",
+    "image": "assets/img/Vögel/Clangula_hyemalis.jpg",
+    "short": "Tauchente mit weißem Kopf und schwarzem Körper.",
+    "detail": "Brütet in borealen Wäldern an Seen. Taucht nach Fischen und Krebstieren. Im Winter häufig an Küsten und großen Binnenseen.",
+    "source": "https://commons.wikimedia.org/wiki/File:Clangula_Hyemalis_(Long_Tailed_Duck)_14.jpg | Urheber: Fabian Roudra Baroi | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t68",
+    "type": "Vögel",
+    "name": "Eissturmvogel",
+    "latin": "Fulmarus glacialis",
+    "family": "Sturmvögel (Procellariidae)",
+    "image": "assets/img/Vögel/Fulmarus_glacialis.jpg",
+    "short": "Weißer Sturmvogel mit gelblichem Schnabel und grauem Rücken.",
+    "detail": "Lebt auf offenen Ozeanen, brütet auf felsigen Klippen. Fliegt mit starren Flügeln und seltenem Flügelschlag. In Deutschland selten, meist an der Nordseeküste.",
+    "source": "https://commons.wikimedia.org/wiki/File:Fulmar_(Fulmarus_glacialis)_on_water.jpg | Urheber: Charles J. Sharp | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t69",
+    "type": "Vögel",
+    "name": "Eistaucher",
+    "latin": "Gavia immer",
+    "family": "Taucher (Gaviidae)",
+    "image": "assets/img/Vögel/Gavia_immer.jpg",
+    "short": "Großer Taucher mit schwarzem Kopf und weißem Halsband.",
+    "detail": "Brütet an Seen in borealen Wäldern. Taucht bis 60 m tief nach Fischen. Im Winter an Küsten. Sein heulender Ruf ist typisch für Seenlandschaften.",
+    "source": "https://commons.wikimedia.org/wiki/File:Eistaucher_(Gavia_immer).jpg | Urheber: Jens Freitag | Lizenz: CC BY-SA 4.0"
+  },
+
+
+  {
+    "id": "t70",
+    "type": "Vögel",
+    "name": "Eisvogel",
+    "latin": "Alcedo atthis",
+    "family": "Königsvögel (Alcedinidae)",
+    "image": "assets/img/Vögel/Alcedo_atthis.jpg",
+    "short": "Kleiner, leuchtend blauer Vogel.",
+    "detail": "Der Eisvogel jagt über klare Bäche und Flüsse und taucht senkrecht, um kleine Fische zu erhaschen. Er brütet in Erdhöhlen oder alten Nistkästen, bevorzugt in bewaldeten Flussabschnitten. Der Gesang ist ein leises „piek‑piek“, das oft nur beim Fliegen zu hören ist.",
+    "source": "https://commons.wikimedia.org/wiki/File:Alcedo_Atthis.jpg | Urheber: Artemy Voikhansky | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t71",
+    "type": "Vögel",
+    "name": "Elster",
+    "latin": "Pica pica",
+    "family": "Krähen (Corvidae)",
+    "image": "assets/img/Vögel/Pica_pica.jpg",
+    "short": "Schwarz‑weißer Vogel mit langen Schwanz und glänzenden Schuppen.",
+    "detail": "Elstern bewohnen offene Landschaften, Wälder und Siedlungsgebiete. Sie sind ausgesprochen intelligent, nutzen Werkzeuge und sammeln gern glänzende Gegenstände. Das Nest liegt in hohen Bäumen, die Brutzeit dauert etwa 30 Tage.",
+    "source": "https://commons.wikimedia.org/wiki/File:Eurasian_magpie_(Pica_pica).jpg | Urheber: Alexis Lours | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t72",
+    "type": "Vögel",
+    "name": "Erlenzeisig",
+    "latin": "Spinus spinus",
+    "family": "Finken (Fringillidae)",
+    "image": "assets/img/Vögel/Spinus_spinus.jpg",
+    "short": "Kleiner Fink mit rotem Stirnstreif und braun‑grauem Gefieder.",
+    "detail": "Erlenzeisige brüten in borealen Nadelwäldern, vor allem in Erlen‑ und Birkenbeständen. Im Winter wandern sie südwärts und kommen bis nach Mitteleuropa, wo sie in Erlen‑ und Weidenbeständen zu finden sind. Sie ernähren sich von Samen, vor allem von Erlen‑ und Birkenkörnern.",
+    "source": "https://commons.wikimedia.org/wiki/File:Eurasian_siskin_(Spinus_spinus)_male_Biebrzanski.jpg | Urheber: Charles J. Sharp | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t73",
+    "type": "Vögel",
+    "name": "Falkenraubmöwe",
+    "latin": "Stercorarius longicaudus",
+    "family": "Stercorariidae",
+    "image": "assets/img/Vögel/Stercorarius _longicaudus.jpg",
+    "short": "Mittelgroße Möwe mit gestrecktem weißen Flügelfleck und gelbem Schnabel.",
+    "detail": "Der Falkenraubmöwe (Pomarine Jaeger) jagt andere Seevögel, taucht plötzlich nach ihren Beutetieren und schlägt sie zu Boden. Sie brütet auf steinigen, subarktischen Inseln. Im Winter bildet sie große Schwärme entlang der Nordsee‑ und Atlantikküste.",
+    "source": "https://commons.wikimedia.org/w/index.php?search=Stercorarius+longicaudus&title=Special%3AMediaSearch&type=image | Urheber: Stephan Sprinz | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t74",
+    "type": "Vögel",
+    "name": "Feldlerche",
+    "latin": "Alauda arvensis",
+    "family": "Lerchen (Alaudidae)",
+    "image": "assets/img/Vögel/Alauda_arvensis.jpg",
+    "short": "Braune Lerche mit ausgeprägtem Gesang im Flug.",
+    "detail": "Die Feldlerche bezieht offene Äcker, Wiesen und nährstoffarme Halme als Brutplätze. Sie baut ein flaches Bodennest und legt vier bis fünf Eier. Der charakteristische Gesang, ein langgezogener, trillernder Ton, wird meist im erhöhten Flug zu hören.",
+    "source": "https://commons.wikimedia.org/wiki/File:Alauda_arvensis_-_Skylark_-_Tarlaku%C5%9Fu_04.jpg | Urheber: Zeynel Cebeci | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t75",
+    "type": "Vögel",
+    "name": "Feldschwirl",
+    "latin": "Locustella naevia",
+    "family": "Zippvögel (Locustellidae)",
+    "image": "assets/img/Vögel/Locustella_naevia.jpg",
+    "short": "Graubrauner Singvogel mit kurzem, raschelndem Gesang.",
+    "detail": "Der Feldschwirl bewohnt feuchte Wiesen, Halme und Halden. Er hält sich meist bodennah, springt bei Störung auf und singt aus dem Unterholz ein raues, vibrierendes „schwitz“‑Geräusch. Das Nest ist ein offener Platz im Gras, meist unbeobachtet.",
+    "source": "https://commons.wikimedia.org/wiki/File:Common_Grasshopper_Warbler_by_Tisha_Mukherjee_10.jpg | Urheber: Tisha Mukherjee | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t76",
+    "type": "Vögel",
+    "name": "Feldsperling",
+    "latin": "Passer montanus",
+    "family": "Sperlinge (Passeridae)",
+    "image": "assets/img/Vögel/Passer_montanus.jpg",
+    "short": "Kleiner Sperling mit braunem Rücken und weißem Nackenfleck.",
+    "detail": "Der Feldsperling ist ein häufiger Landvogel auf Feldern, in Dörfern und Gärten. Er baut sein Nest in hohlen Pflanzenstängeln, Nistkästen oder Dachrinnen. Nahrung besteht aus Samen und Insekten, im Winter überwiegend von Fettfutter.",
+    "source": "https://commons.wikimedia.org/wiki/File:Tree_Sparrow_(Passer_montanus),_Nepal_02.jpg | Urheber: Nrik kiran | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t77",
+    "type": "Vögel",
+    "name": "Felsenschwalbe",
+    "latin": "Ptyonoprogne rupestris",
+    "family": "Schwalben (Hirundinidae)",
+    "image": "assets/img/Vögel/Ptyonoprogne_rupestris.jpg",
+    "short": "Braune Schwalbe mit rotem Gesicht und weißem Kehlband.",
+    "detail": "Felsenschwalben nisten in Felsspalten, Klippen und alten Steinbrüchen. Sie jagen Insekten im Flug über steilen Hängen und in Tälern. Im Winter ziehen sie südwärts, häufig nach Nordafrika.",
+    "source": "https://commons.wikimedia.org/wiki/File:Ptyonoprogne_rupestris_479681011.jpg | Urheber: Mourad Harzallah | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t78",
+    "type": "Vögel",
+    "name": "Fichtenkreuzschnabel",
+    "latin": "Loxia curvirostra",
+    "family": "Finken (Fringillidae)",
+    "image": "assets/img/Vögel/Loxia_curvirostra.jpg",
+    "short": "Kleiner Fink mit gekreuztem Schnabel, spezialisiert auf Fichtensamen.",
+    "detail": "Der Fichtenkreuzschnabel brütet in Nadelwäldern, legt meist 4–5 Eier in Baumhöhlen. Der charakteristische „Kreuz‑Schnabel“ ermöglicht das Öffnen der harten Zapfen. Er tritt in „Invasionsjahren“ in großen Schwärmen in Mitteleuropa auf.",
+    "source": "https://commons.wikimedia.org/wiki/File:Loxia_curvirostra_(male).jpg | Urheber: Alpsdake | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t79",
+    "type": "Vögel",
+    "name": "Fischadler",
+    "latin": "Pandion haliaetus",
+    "family": "Fischadler (Pandionidae)",
+    "image": "assets/img/Vögel/Pandion_haliaetus.jpg",
+    "short": "Großer Greifvogel, spezialisiert auf Fischfang mit stark gebogenem Schnabel.",
+    "detail": "Der Fischadler hält sich an Flüssen, Seen und Küsten auf. Er stürzt mit ausgestreckten Flügeln ins Wasser, um Fisch zu ergreifen. Das Nest ist ein großes Plattformnest aus Ästen, meist an hohen Bäumen oder Klippen. Er ist weit verbreitet, jedoch in Mitteleuropa stark rückläufig.",
+    "source": "https://commons.wikimedia.org/wiki/File:Pandion_haliaetus,_Israel.jpg | Urheber: MinoZig | Lizenz: CC BY-SA 2.5"
+  },
+
+
+  {
+    "id": "t80",
+    "type": "Vögel",
+    "name": "Fitis",
+    "latin": "Phylloscopus trochilus",
+    "family": "Laubsänger (Phylloscopidae)",
+    "image": "assets/img/Vögel/Phylloscopus_trochilus.jpg",
+    "short": "Kleiner, grünlich-brauner Singvogel mit hellem Überaugenstreif.",
+    "detail": "Der Fitis ist ein typischer Laubsänger, der in Laub- und Mischwäldern brütet. Er singt einen schnellen, zirpenden Gesang, der oft mit dem des Zilpzalps verwechselt wird. Überwintert in Afrika südlich der Sahara. Sehr scheu, meist nur am Gesang zu erkennen.",
+    "source": "https://commons.wikimedia.org/wiki/File:Fitis_(Phylloscopus_trochilus).jpg | Urheber: Valuer Hardy | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t81",
+    "type": "Vögel",
+    "name": "Flussregenpfeifer",
+    "latin": "Charadrius dubius",
+    "family": "Regenpfeifer (Charadriidae)",
+    "image": "assets/img/Vögel/Charadrius_dubius.jpg",
+    "short": "Kleiner Watvogel mit schwarzem Brustband und weißem Bauch.",
+    "detail": "Brütet an sandigen Ufern von Flüssen und Seen. Zeigt ein typisches „pfeifendes“ Verhalten, wenn er sich nähert. Futtert Insekten und kleine Wirbellose. Im Winter zieht er nach Afrika und Südwestasien.",
+    "source": "https://commons.wikimedia.org/wiki/File:Charadrius_dubius_-_Little_ringed_plover_05.jpg | Urheber: Zeynel Cebeci | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t82",
+    "type": "Vögel",
+    "name": "Flussseeschwalbe",
+    "latin": "Sterna hirundo",
+    "family": "Möwenverwandte (Laridae)",
+    "image": "assets/img/Vögel/Sterna_hirundo.jpg",
+    "short": "Schlanke Seeschwalbe mit schwarzem Kopf und rotem Schnabel.",
+    "detail": "Brütet in Kolonien auf sandigen Ufern und Inseln. Jagt Fische durch Sturztauchen. Im Winter zieht sie nach Afrika und Südostasien. Sein „kree-kree“ ist charakteristisch für Flussufer.",
+    "source": "https://commons.wikimedia.org/wiki/File:Sterna_hirundo_(adult).jpg | Urheber: Hans Hillewaert | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t83",
+    "type": "Vögel",
+    "name": "Flussuferläufer",
+    "latin": "Actitis hypoleucos",
+    "family": "Schnepfenvögel (Scolopacidae)",
+    "image": "assets/img/Vögel/Actitis_hypoleucos.jpg",
+    "short": "Schlanker Watvogel mit braunem Rücken und weißem Bauch.",
+    "detail": "Brütet an sandigen und steinigen Ufern von Flüssen und Seen. Zeigt ein typisches „wippendes“ Verhalten beim Laufen. Futtert Insekten und kleine Wirbellose. Im Winter zieht er nach Afrika und Südwestasien.",
+    "source": "https://commons.wikimedia.org/wiki/File:Common_Sandpiper_(Actitis_hypoleucos),_Sfax,_Tunisia.jpg | Urheber: Charles J. Sharp | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t84",
+    "type": "Vögel",
+    "name": "Gänsesäger",
+    "latin": "Mergus merganser",
+    "family": "Entenvögel (Anatidae)",
+    "image": "assets/img/Vögel/Mergus_merganser.jpg",
+    "short": "Großer Tauchente mit rotem Schnabel und grauem Gefieder.",
+    "detail": "Brütet in Nadelwäldern an Seen und Flüssen. Taucht nach Fischen und Krebstieren. Im Winter häufig an Küsten und großen Binnenseen. Männchen haben einen auffälligen roten Schnabel und graues Gefieder.",
+    "source": "https://commons.wikimedia.org/wiki/File:Mergus_merganser_fem.jpg | Urheber: Philippe Moret | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t85",
+    "type": "Vögel",
+    "name": "Gartenbaumläufer",
+    "latin": "Certhia brachydactyla",
+    "family": "Baumläufer (Certhiidae)",
+    "image": "assets/img/Vögel/Certhia_brachydactyla.jpg",
+    "short": "Kleiner, brauner Vogel mit langem Schnabel und kletterndem Verhalten.",
+    "detail": "Lebt in Gärten, Parks und Wäldern. Klettert spiralförmig an Baumstämmen empor und sucht Insekten im Rindenspalt. Singt einen schnellen, zirpenden Gesang. Überwintert resident.",
+    "source": "https://commons.wikimedia.org/wiki/File:Short-toed_treecreeper_(Certhia_brachydactyla_megarhynchos).jpg | Urheber: Charles J. Sharp | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t86",
+    "type": "Vögel",
+    "name": "Gartengrasmücke",
+    "latin": "Sylvia borin",
+    "family": "Grasmücken (Sylviidae)",
+    "image": "assets/img/Vögel/Sylvia_borin.jpg",
+    "short": "Braun-grauer Singvogel mit hellem Augenring.",
+    "detail": "Brütet in Gärten, Hecken und Wäldern. Singt einen lauten, melodischen Gesang. Überwintert in tropischem Afrika. Sehr scheu, meist nur am Gesang zu erkennen.",
+    "source": "https://commons.wikimedia.org/wiki/File:Sylvia_borin_315567165.jpg | Urheber: Сергей Неклюдов | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t87",
+    "type": "Vögel",
+    "name": "Gartenrotschwanz",
+    "latin": "Phoenicurus phoenicurus",
+    "family": "Drosseln (Muscicapidae)",
+    "image": "assets/img/Vögel/Phoenicurus_phoenicurus.jpg",
+    "short": "Kleiner Singvogel mit rotem Schwanz und grauem Kopf.",
+    "detail": "Brütet in Gärten, Parks und Wäldern. Männchen haben einen auffälligen roten Schwanz und grauen Kopf. Singt einen melodischen Gesang. Überwintert in Afrika südlich der Sahara.",
+    "source": "https://commons.wikimedia.org/wiki/File:Redstart_(Phoenicurus_phoenicurus)_male_ringed_Malta.jpg | Urheber: Charles J. Sharp | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t88",
+    "type": "Vögel",
+    "name": "Gebirgsstelze",
+    "latin": "Motacilla cinerea",
+    "family": "Stelzen (Motacillidae)",
+    "image": "assets/img/Vögel/Motacilla_cinerea.jpg",
+    "short": "Graue Stelze mit weißem Bauch und wippendem Schwanz.",
+    "detail": "Lebt an Gebirgsflüssen und -bächen. Singt einen hellen, trillernden Gesang. Überwintert in Südeuropa und Afrika. Sehr aktiv, wippt ständig mit dem Schwanz.",
+    "source": "https://commons.wikimedia.org/wiki/File:Grey_wagtail_at_Tenn%C5%8Dji_Park_in_Osaka,_November_2016_-_890.jpg | Urheber: Laitche | Lizenz: CC BY-SA 2.5"
+  },
+
+  {
+    "id": "t89",
+    "type": "Vögel",
+    "name": "Gelbbrauen-Laubsänger",
+    "latin": "Phylloscopus inornatus",
+    "family": "Laubsänger (Phylloscopidae)",
+    "image": "assets/img/Vögel/Phylloscopus_inornatus.jpg",
+    "short": "Kleiner, grünlich-brauner Singvogel mit gelbem Überaugenstreif.",
+    "detail": "Brütet in Laub- und Mischwäldern. Singt einen schnellen, zirpenden Gesang, der oft mit dem des Fitis verwechselt wird. Überwintert in Südostasien. Sehr scheu, meist nur am Gesang zu erkennen.",
+    "source": "https://commons.wikimedia.org/wiki/File:Yellow-browed_Warbler_by_Tisha_Mukherjee_06.jpg | Urheber: Tisha Mukherjee | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t90",
+    "type": "Vögel",
+    "name": "Gelbspötter",
+    "latin": "Hippolais icterina",
+    "family": "Rohrsängerartige (Acrocephalidae)",
+    "image": "assets/img/Vögel/Hippolais_icterina.JPG",
+    "short": "Brauner Singvogel mit gelbem Bauch und langem Schnabel.",
+    "detail": "Brütet in dichtem Schilf und Röhricht. Singt einen lauten, trillernden Gesang. Überwintert in tropischem Afrika. Sehr scheu, schwer zu beobachten.",
+    "source": "https://commons.wikimedia.org/wiki/File:Gulsanger_(Hippolais_icterina).JPG | Urheber: Marton Berntsen | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t91",
+    "type": "Vögel",
+    "name": "Gimpel",
+    "latin": "Pyrrhula pyrrhula",
+    "family": "Finken (Fringillidae)",
+    "image": "assets/img/Vögel/Pyrrhula_pyrrhula.jpg",
+    "short": "Kleiner Fink mit rotem Kopf und schwarzem Schnabel.",
+    "detail": "Brütet in Nadel- und Mischwäldern. Männchen haben einen auffälligen roten Kopf und schwarzen Schnabel. Singt einen melodischen Gesang. Überwintert resident oder zieht nur kurze Strecken.",
+    "source": "https://commons.wikimedia.org/wiki/File:Pyrrhula_pyrrhula_03(js)_Lodz_(Poland).jpg | Urheber: Jerzystrzelecki | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t92",
+    "type": "Vögel",
+    "name": "Girlitz",
+    "latin": "Serinus serinus",
+    "family": "Finken (Fringillidae)",
+    "image": "assets/img/Vögel/Serinus_serinus.jpg",
+    "short": "Kleiner Fink mit gelbem Gefieder und braunem Rücken.",
+    "detail": "Brütet in Hecken, Gärten und Wäldern. Singt einen hellen, trillernden Gesang. Überwintert in Südeuropa und Nordafrika. Futtert vor allem Samen und Insekten.",
+    "source": "https://commons.wikimedia.org/wiki/File:European_serin_(Serinus_serinus)_male.jpg | Urheber: Charles J. Sharp | Lizenz: CC BY-SA 2.5"
+  },
+  {
+    "id": "t93",
+    "type": "Vögel",
+    "name": "Goldammer",
+    "latin": "Emberiza citrinella",
+    "family": "Ammern (Emberizidae)",
+    "image": "assets/img/Vögel/Emberiza_citrinella.jpg",
+    "short": "Gelber Singvogel mit braunem Rücken.",
+    "detail": "Brütet in Hecken, Gärten und Wäldern. Männchen haben einen auffälligen gelben Kopf und braunen Rücken. Singt einen melodischen Gesang. Überwintert in Südeuropa und Nordafrika.",
+    "source": "https://commons.wikimedia.org/wiki/File:Yellowhammer_(Emberiza_citrinella).jpg | Urheber: Alexis Lours | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t94",
+    "type": "Vögel",
+    "name": "Goldregenpfeifer",
+    "latin": "Pluvialis apricaria",
+    "family": "Regenpfeifer (Charadriidae)",
+    "image": "assets/img/Vögel/Pluvialis_apricaria.jpg",
+    "short": "Mittlerer Watvogel mit goldfarbenem Gefieder im Brutkleid.",
+    "detail": "Brütet in Mooren und Heidelandschaften. Im Brutkleid zeigt er ein auffälliges goldfarbenes Gefieder mit schwarzen Flecken. Überwintert an Küsten und auf Wiesen. Sein „klee-klee“ ist charakteristisch.",
+    "source": "https://commons.wikimedia.org/wiki/File:European_golden_plover_(Pluvialis_apricaria)_female_breeding_Keflavik.jpg | Urheber: Charles J. Sharp | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t95",
+    "type": "Vögel",
+    "name": "Grauammer",
+    "latin": "Emberiza calandra",
+    "family": "Ammern (Emberizidae)",
+    "image": "assets/img/Vögel/Emberiza_calandra.jpg",
+    "short": "Große Ammer mit grauem Kopf und braunem Rücken.",
+    "detail": "Brütet auf offenen Äckern und Wiesen. Männchen haben einen grauen Kopf und braunen Rücken. Singt einen melodischen Gesang. Überwintert in Südeuropa und Nordafrika.",
+    "source": "https://commons.wikimedia.org/wiki/File:Emberiza_calandra_-_Corn_Bunting_03.jpg | Urheber: Zeynel Cebeci | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t96",
+    "type": "Vögel",
+    "name": "Graugans",
+    "latin": "Anser anser",
+    "family": "Gänse (Anatidae)",
+    "image": "assets/img/Vögel/Anser_anser.jpg",
+    "short": "Große Gans mit grauem Gefieder und orangefarbenem Schnabel.",
+    "detail": "Brütet in Mooren und Feuchtgebieten. Überwintert an Küsten und auf Äckern. Lebt in großen Schwärmen. Sein „gack-gack“ ist charakteristisch für Wiesenlandschaften.",
+    "source": "https://commons.wikimedia.org/wiki/File:Anser_anser,_Rust,_Burgenland,_Austria,_20220424_1833_4868.jpg | Urheber: Jakub Hałun | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t97",
+    "type": "Vögel",
+    "name": "Graureiher",
+    "latin": "Ardea cinerea",
+    "family": "Reiher (Ardeidae)",
+    "image": "assets/img/Vögel/Ardea_cinerea.jpg",
+    "short": "Großer, grauer Wasservogel mit langem Hals und Beinen.",
+    "detail": "Lebt an Seen, Flüssen und Mooren. Jagt Fische, Frösche und Kleintiere. Steht oft stundenlang reglos am Ufer. Überwintert resident oder zieht nur kurze Strecken.",
+    "source": "https://commons.wikimedia.org/wiki/File:Ardea_cinerea_(Grey_heron)_eating_fish.jpg | Urheber: Basile Morin | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t98",
+    "type": "Vögel",
+    "name": "Grauschnäpper",
+    "latin": "Muscicapa striata",
+    "family": "Schnäpper (Muscicapidae)",
+    "image": "assets/img/Vögel/Muscicapa_striata.jpg",
+    "short": "Kleiner Singvogel mit grauem Gefieder und weißem Bauch.",
+    "detail": "Brütet in Wäldern und Gärten. Jagt Insekten im Flug. Singt einen leisen, trillernden Gesang. Überwintert in Afrika südlich der Sahara.",
+    "source": "https://commons.wikimedia.org/wiki/File:Muscicapa_striata_%D0%BC%D1%83%D1%85%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%96%D1%80%D0%B0.jpg | Urheber: Бусел В.А. | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t99",
+    "type": "Vögel",
+    "name": "Grauspecht",
+    "latin": "Picus canus",
+    "family": "Spechte (Picidae)",
+    "image": "assets/img/Vögel/Picus_canus.jpg",
+    "short": "Großer Specht mit grauem Gefieder und rotem Nacken.",
+    "detail": "Lebt in Laub- und Mischwäldern. Hämmert an Bäume zur Reviermarkierung. Nistet in selbstgehackten Baumhöhlen. Futtert Insekten und Samen.",
+    "source": "https://commons.wikimedia.org/wiki/File:Picus_canus_-Germany-8.jpg | Urheber: Бусел В.А. | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t100",
+    "type": "Vögel",
+    "name": "Großtrappe",
+    "latin": "Otis tarda",
+    "family": "Trappen (Otididae)",
+    "image": "assets/img/Vögel/Otis_tarda.jpg",
+    "short": "Sehr großer, bodenbewohnender Vogel mit braunem Gefieder.",
+    "detail": "Brütet in offenen Steppen und Heidelandschaften. Männchen zeigen spektakuläre Balzrituale. Überwintert in Afrika und Asien. In Deutschland stark gefährdet, nur noch in wenigen Gebieten heimisch.",
+    "source": "https://commons.wikimedia.org/wiki/File:Otis_tarda_181119858.jpg | Urheber: Patrick Hacker | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t101",
+    "type": "Vögel",
+    "name": "Grünfink",
+    "latin": "Chloris chloris",
+    "family": "Finken (Fringillidae)",
+    "image": "assets/img/Vögel/Chloris_chloris.jpg",
+    "short": "Grüner Fink mit gelbem Bauch und braunem Rücken.",
+    "detail": "Brütet in Wäldern und Gärten. Männchen haben ein auffälliges grünes Gefieder mit gelbem Bauch. Singt einen melodischen Gesang. Überwintert resident oder zieht nur kurze Strecken.",
+    "source": "https://commons.wikimedia.org/wiki/File:Chloris_chloris_(profile).jpg | Urheber: Martin Kunz | Lizenz: CC BY-SA 4.0"
+  }, 
+
+  {
+    "id": "t102",
+    "type": "Insekten",
+    "name": "Ackerhummel",
+    "latin": "Bombus pascuorum",
+    "family": "Hummeln (Bombidae)",
+    "image": "assets/img/Bombus_pascuorum.jpg",
+    "short": "",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Bombus_pascuorum_(male)_-_Medicago_x_varia_-_Keila.jpg | Urheber: Ivar Leidus | Lizenz: CC BY-SA 4.0"
+  },
+  {
+    "id": "t103",
+    "type": "Säugetiere",
+    "name": "Gämse",
+    "latin": "Rupricapra rupricapra",
+    "family": "Rinderartige",
+    "image": "assets/img/Säugetiere/Rupicapra_rupicapra.jpg",
+    "short": "Außergewöhnliche Kletterfähigkeiten",
+    "detail": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Bombus_pascuorum_(male)_-_Medicago_x_varia_-_Keila.jpg | Urheber: Ivar Leidus | Lizenz: CC BY-SA 4.0"
+  }
+
+
+  
+
+
+
+
+
+
+]
+
+
+
+
+
+
+
+  
+
+
+
+

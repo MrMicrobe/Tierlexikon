@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Tier Lexikon </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+    <h1>Tierlexikon</h1>
+    <nav class="filter-nav">
+        <button data-filter="all" class="active">Alle</button>
+        <button data-filter="Vögel">Vögel</button>
+        <button data-filter="Säugetiere">Säugetiere</button>
+        <button data-filter="Amphibien">Amphibien</button>
+        <button data-filter="Reptilien">Reptilien</button>
+        <button data-filter="Insekten">Insekten</button>
+    
+    
+    </nav>
+</header>
+
+<main id="gallery" class="gallery">
+
+</main>
+
+
+<div id="detail-modal" class="modal hidden">
+  <div class="modal-content">
+    <button id="modal-close" class="close">&times;</button>
+    <img id="modal-img" src="" alt="" class="modal-img">
+
+    <h2 id="modal-title"></h2>
+
+    <!-- Neue Felder -->
+    <p id="modal-latin" class="modal-meta"></p>
+    <p id="modal-family" class="modal-meta"></p>
+    <p id="modal-source" class="modal-meta"></p>
+
+    <p id="modal-description" class="modal-text"></p>
+    <p id="modal-detail" class="modal-text"></p>
+  </div>
+</div>
+
+
+<script src="main.js"></script>
+</body>
+</html>
